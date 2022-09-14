@@ -1,4 +1,4 @@
-package raindrops
+package Exercism
 
 import (
 	"strconv"

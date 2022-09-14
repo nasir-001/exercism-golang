@@ -1,3 +1,5 @@
+package Exercism
+
 func IsIsogram(word string) bool {
 	seen := make([]bool, 1<<8)
 
